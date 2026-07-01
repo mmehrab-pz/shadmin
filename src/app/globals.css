@@ -127,4 +127,7 @@
   html {
     @apply font-sans;
   }
+  .br{
+    border: 1px solid white;
+  }
 }
